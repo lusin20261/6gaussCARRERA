@@ -1,0 +1,10 @@
+print("========MI CALCULADORA===========")
+a=input("ingresa un  número: ")
+b=input("ingresa tu segundo número: ")
+a=int(a)
+b=int(b)
+print("la multiplicación de:",a*b*42  )
+print("la división de:",a/b)
+print("la raiz de:",a**(1/b) )
+print("*****GRACIAS*****")
+
